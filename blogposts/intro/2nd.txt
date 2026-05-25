@@ -1,0 +1,39 @@
+ I have configured the main index page (homepage) of your website to display
+  a comprehensive list of all your created blog posts. This serves as a clean
+  landing page for your teachers to evaluate your work.
+
+  ### Solution Overview:
+
+  1. Custom Layout Override:
+      • I created a new file at  layouts/index.html  in the root layouts
+      folder of your project. This overrides the Blowfish theme's default
+      profile/hero homepages.
+      • The file is wrapped in  {{ define "main" }} , which ensures that the
+      site keeps all navigation, search tools, headers, footers, and
+      dark/light theme switching functions intact.
+  2. Danish Academic Introduction:
+      • The landing page features a clear header: "Eksamensportfolio -
+      Kandidat posts" for the AIDA Spring 2026 course, explaining that this is
+      your central hub for the semester.
+  3. Dynamic Filtering & Rendering:
+      • I configured the template to query the pages residing in the
+      candidate folder ( content/posts/ ) dynamically using:
+        {{ $portfolioPages := where .Site.RegularPages "Section" "posts" }}
+
+      • Each entry in this section is rendered using the theme's native
+      article-link/simple.html  partial. This automatically pulls in
+      formatting, responsive grids, publishing dates, word counts, reading
+      times, and summary text.
+  4. Build & Integrity Verification:
+      • I successfully rebuilt the static site with  hugo --minify .
+      • The generated homepage ( public/index.html ) correctly embeds the
+      index banner and lists both the newly created  01-Intro  blog post and
+      the placeholder  first title  project page.
+
+
+  ### Live View:
+
+  When you run  hugo server , the landing page at  http://localhost:1313/
+  will display the new portfolio dashboard. Any new markdown posts you add to
+  content/posts/  will automatically appear on this index in chronological
+  order.

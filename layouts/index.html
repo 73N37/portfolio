@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="mt-8">
+  <div class="mb-12 text-center md:text-left">
+    <h1 class="text-4xl font-extrabold tracking-tight text-neutral-900 dark:text-white sm:text-5xl md:text-6xl">
+      <span class="block">Eksamensportfolio</span>
+      <span class="block text-primary-500">Kandidat posts</span>
+    </h1>
+    <p class="mt-3 text-base text-neutral-500 dark:text-neutral-400 sm:mt-5 sm:text-lg sm:max-w-2xl md:mt-5 md:text-xl">
+      Velkommen til min digitale eksamensportfolio for valgfaget <strong>AIDA (AI-Driven Applications) Spring 2026</strong>. 
+      Denne forside fungerer som et samlet indeks over alle mine logbøger, refleksionsartikler og opgaveafleveringer gennemgået i løbet af semestret.
+    </p>
+  </div>
+
+  <section class="mt-12">
+    <h2 class="text-2xl font-bold tracking-tight text-neutral-900 dark:text-white mb-6 border-b pb-2 border-neutral-200 dark:border-neutral-700">
+      Logbøger & Porteføljeartikler
+    </h2>
+    <div class="space-y-8 w-full">
+      {{ $portfolioPages := where .Site.RegularPages "Section" "posts" }}
+      {{ if eq (len $portfolioPages) 0 }}
+        <p class="text-neutral-500 dark:text-neutral-400">Der er endnu ikke oprettet nogen artikler under 'posts' content-mappen.</p>
+      {{ else }}
+        {{ range $portfolioPages }}
+          {{ partial "article-link/simple.html" . }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+</div>
+{{ end }}
