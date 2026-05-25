@@ -2,79 +2,389 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blowfish</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ai/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AIDA</title>
-      <link>http://localhost:1313/tags/aida/</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <link>https://example.org/tags/aida/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/aida/</guid>
+      <guid>https://example.org/tags/aida/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Blowfish</title>
-      <link>http://localhost:1313/tags/blowfish/</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Eksamen</title>
+      <link>https://example.org/tags/eksamen/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/blowfish/</guid>
+      <guid>https://example.org/tags/eksamen/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Engestofte Gods</title>
+      <link>https://example.org/tags/engestofte-gods/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://example.org/tags/engestofte-gods/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Portfolio</title>
-      <link>http://localhost:1313/tags/portfolio/</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Kundemøde</title>
+      <link>https://example.org/tags/kundem%C3%B8de/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/portfolio/</guid>
+      <guid>https://example.org/tags/kundem%C3%B8de/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MCP</title>
+      <link>https://example.org/tags/mcp/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/mcp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Refleksion</title>
-      <link>http://localhost:1313/tags/refleksion/</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <link>https://example.org/tags/refleksion/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/refleksion/</guid>
+      <guid>https://example.org/tags/refleksion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>API-Keys</title>
+      <link>https://example.org/tags/api-keys/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/api-keys/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blowfish</title>
+      <link>https://example.org/tags/blowfish/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/blowfish/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Projektarbejde</title>
+      <link>https://example.org/tags/projektarbejde/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/projektarbejde/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sikkerhed</title>
+      <link>https://example.org/tags/sikkerhed/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/sikkerhed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Express</title>
+      <link>https://example.org/tags/express/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/express/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NodeJS</title>
+      <link>https://example.org/tags/nodejs/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/nodejs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Projektstart</title>
+      <link>https://example.org/tags/projektstart/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/projektstart/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Systemarkitektur</title>
+      <link>https://example.org/tags/systemarkitektur/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/systemarkitektur/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Business-Case</title>
+      <link>https://example.org/tags/business-case/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/business-case/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Virksomhedsoplæg</title>
+      <link>https://example.org/tags/virksomhedsopl%C3%A6g/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/virksomhedsopl%C3%A6g/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Etik</title>
+      <link>https://example.org/tags/etik/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/etik/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jura</title>
+      <link>https://example.org/tags/jura/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/jura/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Peter Naur</title>
+      <link>https://example.org/tags/peter-naur/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/peter-naur/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spec-Driven-Dev</title>
+      <link>https://example.org/tags/spec-driven-dev/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/spec-driven-dev/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>API</title>
+      <link>https://example.org/tags/api/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/api/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backend</title>
+      <link>https://example.org/tags/backend/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/backend/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JSON-Output</title>
+      <link>https://example.org/tags/json-output/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/json-output/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Asynkron</title>
+      <link>https://example.org/tags/asynkron/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/asynkron/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LLM-Integration</title>
+      <link>https://example.org/tags/llm-integration/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/llm-integration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Claude Code</title>
+      <link>https://example.org/tags/claude-code/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/claude-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kodeagenter</title>
+      <link>https://example.org/tags/kodeagenter/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/kodeagenter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Refactoring</title>
+      <link>https://example.org/tags/refactoring/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/refactoring/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Softwareudvikling</title>
-      <link>http://localhost:1313/tags/softwareudvikling/</link>
+      <link>https://example.org/tags/softwareudvikling/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/softwareudvikling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Datakvalitet</title>
+      <link>https://example.org/tags/datakvalitet/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/datakvalitet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dify</title>
+      <link>https://example.org/tags/dify/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/dify/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://example.org/tags/portfolio/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/portfolio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Promptdesign</title>
+      <link>https://example.org/tags/promptdesign/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/promptdesign/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RAG</title>
+      <link>https://example.org/tags/rag/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/rag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chatbots</title>
+      <link>https://example.org/tags/chatbots/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/chatbots/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Embeddings</title>
+      <link>https://example.org/tags/embeddings/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/embeddings/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://example.org/tags/ai/</link>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/softwareudvikling/</guid>
+      <guid>https://example.org/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://example.org/tags/hugo/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/hugo/</guid>
       <description></description>
       
     </item>
