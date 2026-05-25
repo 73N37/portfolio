@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blowfish</title>
+    <link>http://localhost:1313/tags/blowfish/</link>
+    <description>Recent content on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/blowfish/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>01-Intro: Kursusintroduktion og Portfolio-refleksioner</title>
+      <link>http://localhost:1313/1488/01-intro/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/1488/01-intro/</guid>
+      <description>&lt;p&gt;Velkommen til den første logbog på mit portfolio-website for valgfaget &lt;strong&gt;AIDA (AI-Driven Applications) Spring 2026&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Dette website vil fungere som min primære dokumentationsplatform, hvor jeg gennemgår de teorier, teknologier og praktiske cases, som vi arbejder med i løbet af semestret. Denne første artikel opsummerer vores introduktionsgang den &lt;strong&gt;10. april 2026&lt;/strong&gt;, samt mine personlige refleksioner om kunstig intelligens i moderne softwareudvikling.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Praktisk info om sessionen&#xD;&#xA;    &lt;div id=&#34;praktisk-info-om-sessionen&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#praktisk-info-om-sessionen&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Undervisningsgang:&lt;/strong&gt; 1 (Dato: 10/4)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tema:&lt;/strong&gt; Kursusintro + Portfolio-etablering&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dagens Mål:&lt;/strong&gt; Introduktion til faget, forventningsafstemning, forståelse af LLM-arkitekturer og opsætning af et statisk portfolio-website ved hjælp af Hugo og Blowfish-temaet.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Hvad vi gjorde i undervisningen&#xD;&#xA;    &lt;div id=&#34;hvad-vi-gjorde-i-undervisningen&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#hvad-vi-gjorde-i-undervisningen&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Sessionen startede med en overordnet introduktion til valgfaget AIDA, dets struktur, samt kravene til den kommende eksamen. Vi diskuterede, hvordan AI-drevne applikationer adskiller sig fra traditionel software, og hvordan Large Language Models (LLM’er) integreres som centrale komponenter i moderne softwarearkitektur.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
