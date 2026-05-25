@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virksomhedsoplæg on Blowfish</title>
+    <link>https://example.org/tags/virksomhedsopl%C3%A6g/</link>
+    <description>Recent content in Virksomhedsoplæg on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/virksomhedsopl%C3%A6g/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>08-Virksomhedsoplæg: Case-præsentation fra Engestofte Gods</title>
+      <link>https://example.org/posts/08-virksomhedsoplaeg/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/08-virksomhedsoplaeg/</guid>
+      <description>&lt;p&gt;Velkommen til den ottende logbog på mit portfolio-website for &lt;strong&gt;AIDA&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Dette modul markerede starten på vores endelige eksamensprojekt. Vi fik fornemt besøg af &lt;strong&gt;Mette-Marie og Lise fra Engestofte Gods&lt;/strong&gt;, som præsenterede en række spændende og reelle forretningsmæssige udfordringer, som de står overfor i deres daglige drift. Formålet med dagen var at lade os inspirere og udarbejde et konkret idéoplæg til en AI-drevet løsning, der kan skabe reel værdi for godset.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
